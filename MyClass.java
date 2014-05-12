@@ -1,4 +1,6 @@
 public class MyClass {
-    // .... blah blah
+    public static void main(String args[]){
+        
+    }
 
 }
